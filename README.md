@@ -14,18 +14,26 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-Python" height="50" width="70" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  </div>
-    ##
+  </div>       
   ZABBIX VERSION : 6.0.3
-<img align="right" alt="Arthur-HTML" height="" width="400" src="http://45.161.152.56/wp-content/uploads/2022/04/plugin_logos-768x365.png">
-  #
-GRAFANA VERSION : v8.4.4 (fcfb01fae)
-  # Plugins
-   <br />
-   <img align="center" alt="Arthur-Python" height="" width="30" src="https://grafana.com/api/plugins/singlestat/logos/small">
-   <a href="https://grafana.com/docs/grafana/latest/visualizations/time-series/">Time series</a>
-   <br />
-   <img align="center" alt="Arthur-Python" height="" width="20" src="https://grafana.com/api/plugins/grafana-piechart-panel/logos/small">
-   <a href="https://grafana.com/docs/grafana/latest/visualizations/time-series/">Piechart Panel</a>
+  </br >
+  GRAFANA VERSION : v8.4.4 (fcfb01fae)
+  </br >
   
+   ### Plugins
+      <br/>
+   
+<img align="left" alt="Arthur-Python" height="" width="30" src="https://grafana.com/api/plugins/singlestat/logos/small"> <a href="https://grafana.com/docs/grafana/latest/visualizations/time-series/">Time series</a><br />
+
+<img align="left" alt="Arthur-Python" height="" width="20" src="https://grafana.com/api/plugins/graph/logos/small"> <a href="https://grafana.com/grafana/plugins/graph/">Graph</a>
+
+<img align="left" alt="Arthur-Python" height="" width="20" src="https://grafana.com/api/plugins/grafana-piechart-panel/logos/small"> <a href="https://grafana.com/docs/grafana/latest/visualizations/time-series/">Piechart Panel</a>
+
+<img align="left" alt="Arthur-Python" height="" width="20" src="https://grafana.com/api/plugins/briangann-gauge-panel/logos/small"> <a href="https://grafana.com/grafana/plugins/briangann-gauge-panel//">Gauge</a>
+
+<img align="left" alt="Arthur-Python" height="" width="20" src="https://grafana.com/api/plugins/text/logos/small"> <a href="https://grafana.com/grafana/plugins/text/">Text Panel</a>
+
+ 
+  
+   
 
