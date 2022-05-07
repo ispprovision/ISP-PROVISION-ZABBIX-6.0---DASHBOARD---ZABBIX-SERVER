@@ -18,10 +18,11 @@
   ZABBIX VERSION : 6.0.3
   </br >
   GRAFANA VERSION : v8.4.4 (fcfb01fae)
-  </br >
   
-   ### Plugins
-      <br/>
+   
+  ### Plugins
+  </br >
+               
    
 <img align="left" alt="Arthur-Python" height="" width="30" src="https://grafana.com/api/plugins/singlestat/logos/small"> <a href="https://grafana.com/docs/grafana/latest/visualizations/time-series/">Time series</a><br />
 
@@ -33,6 +34,7 @@
 
 <img align="left" alt="Arthur-Python" height="" width="20" src="https://grafana.com/api/plugins/text/logos/small"> <a href="https://grafana.com/grafana/plugins/text/">Text Panel</a>
 
+<a href="https://ibb.co/25jPGps"><img src="https://i.ibb.co/g6DwkcP/screencapture-45-161-152-55-3000-d-UWTSz0lnk23-isp-provision-zabbix-6-0-dashboard-zabbix-server-2022.png" alt="screencapture-45-161-152-55-3000-d-UWTSz0lnk23-isp-provision-zabbix-6-0-dashboard-zabbix-server-2022" border="0" /></a>
  
   
    
