@@ -34,7 +34,7 @@
 
 <img align="left" alt="Arthur-Python" height="" width="20" src="https://grafana.com/api/plugins/text/logos/small"> <a href="https://grafana.com/grafana/plugins/text/">Text Panel</a>
 
- <img align="center" alt="Arthur-Python" height="" width="200" src="https://i.ibb.co/7CRNpp1/Download-Button-PNG-Photo.png"> <a  href="https://grafana.com/grafana/dashboards/16238"></a>
+ <img align="center" alt="Arthur-Python" height="" width="200" src="https://i.ibb.co/7CRNpp1/Download-Button-PNG-Photo.png"> <a  href="https://grafana.com/grafana/dashboards/16238">DOWNLOAD</a>
 
 <img src="https://i.ibb.co/b7rLcG2/screencapture-45-161-152-55-3000-d-UWTSz0lnk23-isp-provision-zabbix-6-0-dashboard-zabbix-server-2022.png" alt="screencapture-45-161-152-55-3000-d-UWTSz0lnk23-isp-provision-zabbix-6-0-dashboard-zabbix-server-2022" border="0" /></a>
 
